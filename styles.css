@@ -72,3 +72,58 @@ h6{
 #body2{
     background-color: #FEFCFC;
 }
+#body2-detail{
+    padding-left: 20px;
+}
+#learnmore{
+   
+    background-color: #EDEDED;
+}
+#roblox{
+    padding-left: 100px;
+}
+#LatestNews{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    padding-left: 480px;
+    margin-bottom: 0px;
+}
+#LatestNews h1{
+    text-align: center;
+    margin: 0px;
+
+}
+.image-heading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-image {
+    margin-right: 10px;
+}
+
+.card-title {
+    margin: 0;
+    padding: 0;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #333; 
+}
+
+.card-text {
+    margin-top: 10px;
+    color: #333333;
+}
+.card {
+    width: 300px;
+    height: 200px; 
+    background-color: white;
+    border-top: 10px solid #4CAF50; 
+    box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.1);
+    padding-top: 0px; 
+    margin-top: -190px;
+
+}
